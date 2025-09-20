@@ -1,2 +1,2 @@
 # Football-Simulation
-A basic football game simulated in its early stages
+A basic football game simulation (very much still in its early stage
